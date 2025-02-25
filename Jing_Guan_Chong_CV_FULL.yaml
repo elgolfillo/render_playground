@@ -10,40 +10,91 @@ cv:
       username: jingchong
   sections:
     profile:
-      - Experienced Data Engineer and AI Specialist with over 18 years leading global technology and digital transformation projects.
-      - Expert in artificial intelligence (AI), advanced data solutions, system optimization, and automation.
-      - Proven ability to design innovative solutions that generate measurable business impact.
+      - Technology enthusiast and expert in digital transformation, artificial intelligence, data engineering, and automation with over 19 years of experience leading global projects.
+      - Passionate about designing, building, and operating innovative systems and architectures that make AI accessible, while mentoring and driving change in complex environments.
     experience:
-      - company: Decathlon Digital
-        position: Data Engineer | MLOps
-        location: Madrid, Spain
-        start_date: 2022-04
-        end_date: present
+      - company: "Decathlon Digital"
+        position: "Data Engineer | MLOps"
+        location: "Madrid, Spain"
+        start_date: "2022-04"
+        end_date: "present"
         highlights:
-          - Leader in Data & AI transformation for the Logistics Domain.
-          - Created Business Intelligence strategies, driving €3.4M/year in strategic impact.
-          - Developed predictive models for e-commerce, saving €1.65M in Spain and Italy.
-          - Optimized supply chain analytics, generating €2.6M in measured contributions.
-          - Implemented AI and Big Data solutions on GCP and AWS.
-      - company: MIT Professional Education
-        position: Learning Facilitator
-        location: Remote
-        start_date: 2022-11
-        end_date: present
+          - "Specialist in Artificial Intelligence (AI), Data Engineering, and Digital Transformation with over 17 years of experience leading global technology projects."
+          - "Technical Data Engineer leader for Customer Growth Domain, creating Business Intelligence strategies to enhance decision-making and drive growth."
+          - "Owner of Universal Control Group (UUCG): Enabled global optimization, measurement, and analysis across 9 countries, unlocking a strategic impact of over €3.4M (including €2M in Spain and France)."
+          - "Developed predictive models for E-commerce Forecasting Orders, reducing MAPE in Italy from 30% to 10-15% and achieving cost savings of €550k in Spain and €1.1M in Italy."
+          - "Drove incremental business value through Product Replenishment and Engagement Score projects, leveraging data-driven insights to overcome external challenges."
+          - "Implemented AI and Big Data solutions on cloud platforms such as GCP and AWS."
+          - "Led the transformation of the Logistics Domain by integrating analytical intelligence and visualizations to optimize workflows and enable new use cases."
+          - "Led CARTO platform adoption, saving €60k in licensing costs and unlocking a potential ROI of €15M."
+          - "Enhanced analytics frameworks to drive significant value attribution through data visualization."
+
+      - company: "MIT Professional Education"
+        position: "Learning Facilitator"
+        location: "Remote"
+        start_date: "2022-11"
+        end_date: "present"
         highlights:
-          - Facilitated Digital Transformation learning for individuals and organizations.
-          - Covered topics such as AI, Blockchain, Cloud Computing, IoT, and Cybersecurity.
-          - Collaborated with top technology universities in the USA.
-      - company: Decathlon International
-        position: Senior Engineer & Project Manager
-        location: Madrid, Spain
-        start_date: 2008-01
-        end_date: 2022-04
+          - "Facilitated digital transformation certificate learning for individuals and organizations, covering topics such as Blockchain, Cloud Computing, Artificial Intelligence (AI), Internet of Things (IoT), and Cybersecurity."
+          - "Mentored participants to apply emerging technologies to real-world challenges."
+          - "Collaborated with top technology universities in the USA."
+
+      - company: "Decathlon International"
+        position: "Tech Lead | Automation"
+        location: "Madrid, Spain"
+        start_date: "2021-01"
+        end_date: "2022-14"
         highlights:
-          - Led logistics digital transformation across multiple countries.
-          - Designed and implemented logistics centers in Spain, Portugal, Italy, Turkey, Romania, Colombia, Mexico, Israel, and Egypt.
-          - Pioneered IBM AS400 cloud migration for logistics automation.
-          - Led crisis management for logistics continuity during COVID-19.
+          - "Leads projects from A to Z in logistics."
+          - "Project Leader of the IBM-AS400 architecture for logistics in information technologies, platforms, innovation, automation and robotics (B2B & B2C)."
+          - "Automation & Robotics Manager for IT Logistics."
+          - "Establishes a Technical Vision for logistic automation and robotics."
+          - "Sets up Technical Strategy & Digital Transformation (B2B & B2C)."
+          - "Design owner driving new log platform–oriented activities as well as customer-related feature requests."
+      - company: "Decathlon International"
+#        position: "Logistic Technical Expert & IT Project Manager (IA & Machine Learning lover)"
+        position: "Senior Engineer & Project Manager"
+        location: "Madrid, Spain"
+        start_date: "2015-01"
+        end_date: "2021-06"
+        highlights:
+          - "Led end-to-end projects in logistics automation and robotics, establishing the technical vision and strategy for digital transformation."
+          - "Directed the implementation of advanced automation and robotics systems, including Convoyeur, pocket sorter, Geek+, RFID, and Toyota solutions, optimizing operational efficiency."
+#          - "IBM Systems Expert."
+          - "Supervised the integration and management of IBM systems, ensuring alignment with strategic objectives and enhancing infrastructure resilience."
+          - "Led projects for the expansion of logistics centers in countries such as Colombia, Mexico, Chile, Egypt, Romania, Turkey, and Southern Europe, strengthening the company's global presence."
+
+      - company: "Decathlon International"
+        position: "Project Manager (Computer Soft. Engineer & IT Project Manager)"
+        location: "Madrid, Spain"
+        start_date: "2012-06"
+        end_date: "2014-02"
+        highlights:
+          - "Implemented new solutions and managed openings in Spain, Portugal & Turkey."
+          - "Provided 2-level logistic IT support."
+          - "Administered, monitored, and troubleshooted Dell PowerEdge and AS400 servers, as well as LAN, WLAN, and WAN networks."
+          - "Managed clone solutions (Ghost Server, Acronis), Active Directory, backup systems (NTBackup, BackupExec, Symantec SEP11), network printers, NAS (NetApp DRP), virtualization, and cloud support."
+
+      - company: "Decathlon International"
+        position: "IT Technician"
+        location: "Madrid, Spain"
+        start_date: "2008-08"
+        end_date: "2012-06"
+        highlights:
+          - "IT Helpdesk Technician specializing in logistics AS400 & production for the IT Retail Department."
+          - "Provided 1-level logistic IT support for flows, cash & monetics, and IT systems of stores, production centers, and warehouses."
+          - "Supported regions including Italy, Portugal, Spain, Turkey, Romania, Tunisia, Egypt, Brazil, and Morocco."
+          - "Managed supplier relationships with companies such as Konica, Cos, Main Memory, SDi, Telefónica, and France Telecom."
+
+      - company: "Decathlon Getafe Warehouse"
+        position: "Log Technician"
+        location: "Getafe, Spain"
+        start_date: "2007-08"
+        end_date: "2008-06"
+        highlights:
+          - "Managed picking and order portfolio."
+          - "Planned and controlled material flow, inventory, distribution routes, and delivery order timeliness."
+          - "Oversaw quality controls, reception, and dispatch within the logistics process."
     education:
       - institution: Complutense University of Madrid
         area: Physical Sciences
@@ -72,6 +123,14 @@ cv:
         start_date: 2024-08
         end_date: 2024-12
     skills:
+      - label: Digital Transformation & Automation
+        details: Digital strategy, DevOps, Data Engineering, MLOps, Cloud (GCP, AWS), IBM AS400
+      - label: DevOps & Infrastructure
+        details: Docker, Kubernetes, CI/CD, Git, GitHub Actions
+      - label: Big Data & Analytics
+        details: ETL/ELT (Airflow, PySpark, Databricks), Datalake, Datawarehouse, BI (Tableau, Superset)
+      - label: Monitoring & Legacy Systems
+        details: PRTG, ManageEngine, IBM Power i/AS400, On-premise server management
       - label: Programming & Scripting
         details: Python, SQL, DB2
       - label: Data Engineering

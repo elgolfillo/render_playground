@@ -1,0 +1,130 @@
+cv:
+  name: Jing Guan Chong
+  photo: "rendercv/data/photo/profile_picture.jpg"
+  location: Madrid, Spain
+  email: JingguanChong@gmail.com
+  phone: tel:+34-605-888-333
+  website: https://www.jingguanchong.com
+  social_networks:
+    - network: LinkedIn
+      username: jingchong
+  sections:
+    profile:
+      - "🚀 **Data Engineer & AI/ML Lead** with over **17 years of experience** in digital transformation, advanced analytics, and data exploitation."
+      - "📊 Specialized in **Predictive Analytics, Time Series Forecasting, and AI for Operational & Commercial Data**."
+      - "📈 **Proven impact**: Reduced forecasting errors by 66%, generating over **€3.4M in cost optimizations**."
+      - "🔍 Seeking to apply **AI, Data Analytics, and Dashboards** in the energy, logistics, and commercial optimization sectors."
+
+    experience:
+      - company: "Decathlon Digital"
+        position: "Data Engineer | Data Lead"
+        location: "Madrid, Spain"
+        start_date: "2022-04"
+        end_date: "present"
+        summary: "Leading AI-driven analytics for logistics and commercial optimization across multiple countries."
+        highlights:
+          - "📊 Developed **advanced predictive models**, impacting business growth and efficiency with **€3.4M+ in savings**."
+          - "⚙️ **Reduced prediction errors by 66%**, increasing forecasting reliability across **9 countries**."
+          - "🔗 **Led Data Governance initiatives**, ensuring quality and standardization in data-driven decision-making."
+          - "☁️ **Implemented Cloud platforms (GCP & AWS)**, improving scalability and operational performance."
+
+      - company: "MIT Professional Education"
+        position: "Learning Facilitator | AI & Digital Transformation"
+        location: "Remote"
+        start_date: "2022-11"
+        end_date: "present"
+        summary: "Training professionals in AI, Blockchain, IoT, and Cloud Computing in Digital transformation Program, in collaboration with MIT"
+        highlights:
+          - "🎓 **Mentored over 250 professionals** in Digital transformation."
+          - "🏆 **Advised organizations on AI strategy and Data Analytics adoption**."
+
+      - company: "Decathlon International"
+        position: "Tech Lead | AI & Digital Transformation"
+        location: "Madrid, Spain"
+        start_date: "2021-01"
+        end_date: "2022-04"
+        summary: "Led AI-driven logistics and digital transformation initiatives, integrating predictive analytics and automation."
+        highlights:
+          - "🏭 **Optimized logistics & distribution networks across 9 countries**, achieving cost reductions of **€1.5M per year**."
+          - "📈 Developed **predictive models for supply chain efficiency**, reducing lead times and improving inventory control."
+          - "🔥 Established **Data Governance & quality metrics** for logistics data integrity and compliance."
+
+      - company: "Decathlon International"
+        position: "Senior Engineer & IT Project Manager"
+        location: "Madrid, Spain"
+        start_date: "2008-01"
+        end_date: "2021-06"
+        summary: "Managed large-scale IT and automation projects, integrating data analytics into logistics operations."
+        highlights:
+          - "🚛 **Automated warehouse operations using IoT, Robots & RFID**, reducing logistics errors by **30%**."
+          - "💰 Led **Cloud & Infrastructure transformation**, achieving **€800K+ in annual cost savings**."
+          - "🔍 Led **IBM AS400 system migration**, improving system resilience and scalability."
+          - "🛠️ **Design owner**, driving new log platform–oriented activities as well as customer-related feature requests."
+
+      - company: "Decathlon International"
+        position: "IT Technician & Logistics Systems Engineer"
+        location: "Madrid, Spain"
+        start_date: "2008-08"
+        end_date: "2015-12"
+        summary: "Specialized in IT infrastructure, automation, and logistics optimization across multiple regions."
+        highlights:
+          - "🛠 **Administered IT systems (IBM AS400, SQL, WebSphere)**, ensuring data availability and performance."
+          - "📊 **Designed automation solutions for warehouse operations**, reducing order processing times by **40%**."
+          - "🌍 **Expanded logistics IT solutions to Spain, Portugal, Italy, Turkey, Romania, and Latin America**."
+          - "⚡ Led **RFID & Smart IoT integration for supply chain optimization**."
+
+    education:
+      - institution: "Complutense University of Madrid"
+        area: "Physical Sciences"
+        degree: "BSc"
+        location: "Madrid, Spain"
+      - institution: "Polytechnic University of Madrid"
+        area: "Computer Science Engineering"
+        degree: "BSc"
+        location: "Madrid, Spain"
+      - institution: "MIT Professional Education"
+        area: "Artificial Intelligence & Digital Transformation"
+        degree: "Professional Certificate"
+        location: "Cambridge, MA, USA"
+        start_date: "2021-09"
+        end_date: "2022-07"
+      - institution: "MIT Professional Education"
+        area: "Applied Generative AI"
+        degree: "Certificate"
+        location: "Cambridge, MA, USA"
+        start_date: "2024-08"
+        end_date: "2024-12"
+
+    skills:
+      - label: "Advanced Analytics & Time Series Forecasting"
+        details: "Predictive Modeling, Time Series Analysis, Regression, Statistical Optimization"
+      - label: "Cloud & Big Data"
+        details: "GCP (BigQuery), AWS (S3, Lambda, Redshift), Snowflake, Databricks"
+      - label: "MLOps & DevOps"
+        details: "Kubernetes, Docker, MLflow, Terraform, Airflow, CI/CD (GitHub Actions, GitLab CI)"
+      - label: "Data Engineering & ETL"
+        details: "Spark, Data Lakes, Data Pipelines, Databricks"
+      - label: "Dashboards & BI Reporting"
+        details: "Tableau, Superset, Carto, KPI Optimization"
+      - label: "Data Governance & Quality"
+        details: "Data Governance, Data Lineage, Data Catalogs (Collibra)"
+      - label: "Programming Languages"
+        details: "Python, SQL"
+
+    certifications:
+      - label: "Applied Generative AI for Digital Transformation"
+        details: "MIT Professional Education"
+      - label: "ITIL V3 Foundation Certificate"
+        details: "Tecnofor"
+      - label: "PMP - Advanced Project Management"
+        details: "Think Lab S.L"
+      - label: "SCRUM Fundamentals Certified"
+        details: "SCRUMstudy"
+      - label: "Six Sigma Yellow Belt"
+        details: "6SIGMAstudy"
+
+design:
+  theme: "sb2nov"
+locale:
+  language: "en"
+  present: "Present"
